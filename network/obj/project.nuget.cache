@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RJtEuo1c8reFzb71/dDXtvLBLrPAD5vf8VVHGI19Dp5tqL2rflxQeE+6qJTat2lBwxYHh9ZCkvFJEFUA82/gqQ==",
+  "success": true,
+  "projectFilePath": "/Users/dev/Desktop/workspace/csharp/csharp-network/network/network.csproj",
+  "expectedPackageFiles": [
+    "/Users/dev/.nuget/packages/google.protobuf/3.27.0-rc1/google.protobuf.3.27.0-rc1.nupkg.sha512",
+    "/Users/dev/.nuget/packages/protobuf-net/3.2.30/protobuf-net.3.2.30.nupkg.sha512",
+    "/Users/dev/.nuget/packages/protobuf-net.core/3.2.30/protobuf-net.core.3.2.30.nupkg.sha512",
+    "/Users/dev/.nuget/packages/system.collections.immutable/7.0.0/system.collections.immutable.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

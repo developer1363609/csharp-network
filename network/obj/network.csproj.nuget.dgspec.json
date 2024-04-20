@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dev/Desktop/workspace/csharp/csharp-network/network/network.csproj": {}
+  },
+  "projects": {
+    "/Users/dev/Desktop/workspace/csharp/csharp-network/network/network.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dev/Desktop/workspace/csharp/csharp-network/network/network.csproj",
+        "projectName": "network",
+        "projectPath": "/Users/dev/Desktop/workspace/csharp/csharp-network/network/network.csproj",
+        "packagesPath": "/Users/dev/.nuget/packages/",
+        "outputPath": "/Users/dev/Desktop/workspace/csharp/csharp-network/network/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.27.0-rc1, )"
+            },
+            "protobuf-net": {
+              "target": "Package",
+              "version": "[3.2.30, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/dev/.dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
